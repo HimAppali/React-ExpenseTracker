@@ -1,0 +1,31 @@
+.expenses-container {
+  font-size: 24px;
+  background-color: #ccc;
+  display: flex;
+  flex-direction: row;
+  padding: 2vw 1vh;
+  margin: 5vh 0;
+  justify-content: space-between;
+  align-items: center;
+  // below styles coming from Card component
+  // border-radius: 10px;
+  // box-shadow:5px 10px;
+}
+
+// .expenses-data {
+//   // width: 33.33vw;
+// }
+
+.expenses-data-amount {
+  text-align: end;
+}
+
+.expenses-amount {
+  background-color: blue;
+  color: #fff;
+  border: 2px solid #fff;
+  text-align: center;
+  padding: 1vh 1vw;
+  border-radius: 10px;
+}
+

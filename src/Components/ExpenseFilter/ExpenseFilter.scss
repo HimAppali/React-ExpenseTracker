@@ -1,0 +1,17 @@
+.expense-filter-form-container {
+  background-color: aliceblue;
+  padding: 0vh 1vw;
+  margin-top: 5vh;
+}
+
+.expense-filter-form {
+  margin: 2vh 0;
+  padding: 2vh 0;
+  display: flex;
+  justify-content: flex-end;
+}
+.expense-filter-form-control {
+  padding: 5px 50px;
+  border-radius: 5px;
+  font-size: 20px;
+}
